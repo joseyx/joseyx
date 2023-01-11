@@ -5,7 +5,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [[portafolio not ready]]([portafolio not ready]) -->
 
-- 📫 How to reach me **joseyx041199@gmail.com**
+- 📫 How to reach me **josea.rcampero@gmail.com**
 
 <!-- - 📄 Know about my experiences [[Not ready]]([Not ready]) -->
 
