@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Rojas</h1>
 <h3 align="center">A passionate web developer from Venezuela</h3>
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **Laravel and Vue.js**
 
 <!-- - 👨‍💻 All of my projects are available at [[portafolio not ready]]([portafolio not ready]) -->
 
